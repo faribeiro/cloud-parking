@@ -3,6 +3,7 @@ package one.digitalinnovation.parking.model;
 import java.time.LocalDateTime;
 
 public class Parking {
+
     private String id;
     private String license;
     private String state;
